@@ -1,0 +1,70 @@
+body {
+  margin-left: 50px;
+  margin-right: 50px;
+}
+
+.main-title {
+  background-color: rgb(99, 94, 94);
+  color: lightgrey;
+  font-size: 40px;
+  border: 3px solid black;
+  border-radius: 15px;
+  padding: 10px;
+}
+
+.name {
+  background-color:darkslategrey;
+  color: white;
+  padding: 5px;
+  border-radius: 5px;
+}
+
+.skills {
+  color: green;
+}
+
+.skills:hover {
+  background-color: green;
+  color: white;
+  font-size: 18px;
+}
+
+.image {
+  height: 250px;
+  display: block;
+  margin: auto;
+  border-radius: 5px;
+}
+
+.link:hover {
+  background-color: darkblue;
+  color: white;
+  font-size: 20px;
+}
+
+footer {
+  background-color: darkslategrey;
+  color: white;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.centered-text {
+  text-align: center;
+}
+
+.justified-text {
+  text-align: justify;
+}
+
+.border-box {
+  border: 3px solid black;
+  padding: 20px;
+  margin-bottom: 10px;
+  margin-top: 20px;
+}
+
+.background {
+  background-color: rgb(172, 192, 192);
+  padding: 20px;
+}
